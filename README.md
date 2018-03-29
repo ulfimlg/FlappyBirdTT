@@ -4,6 +4,8 @@ FlappyBirdTT
 Flappy Bird Tying Tutor Clone is made using [python-pygame][1]
 
 This game is heavily based on [Sourab's FlappyBird Clone][2]
+
+
 How-to
 ------
 
