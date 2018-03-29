@@ -1,7 +1,7 @@
 FlappyBirdTT 
 ===============
 
-A Flappy Bird Tying Tutor Clone is made using [python-pygame][1]
+Flappy Bird Tying Tutor Clone is made using [python-pygame][1]
 
 How-to
 ------
