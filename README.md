@@ -14,7 +14,7 @@ How-to
 
 4. Run `python flappy.py` from the repo's directory
 
-5. Press the first alphabet to start to play, keep typing to keep the bird flapping and <kbd>Space</kbd> to restart the game once you loose.
+5. Press the first alphabet <kbd>Key</kbd> to start to play, continue typing to keep the bird flapping and press <kbd>Space</kbd> to restart the game once you loose.
 
   (Note: Install pyGame for same version python as above)
 
