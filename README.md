@@ -26,7 +26,7 @@ How-to
 ScreenShot
 ----------
 
-![Flappy Bird Typing Tutor](screenshot1.png)
+![Flappy Bird Typing Tutor](Screenshot.png)
 
 [1]: http://www.pygame.org
 [2]: https://github.com/sourabhv/FlapPyBird
