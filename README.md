@@ -3,6 +3,7 @@ FlappyBirdTT
 
 Flappy Bird Tying Tutor Clone is made using [python-pygame][1]
 
+This game is heavily based on [Sourab's FlappyBird Clone][2]
 How-to
 ------
 
@@ -26,3 +27,4 @@ ScreenShot
 ![Flappy Bird Typing Tutor](screenshot1.png)
 
 [1]: http://www.pygame.org
+[2]: https://github.com/sourabhv/FlapPyBird
